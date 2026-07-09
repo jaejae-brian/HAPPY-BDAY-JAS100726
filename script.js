@@ -22,7 +22,7 @@ I also love thinking about the days we went out to recce Ang Mo Kio, Upper Thoms
 
 One of my favourite memories this year was celebrating my NS milestone at my MR parade with you. After all those years of NS commitments, I felt so happy to see you at my MR parade and it felt so meaningful to celebrate the end of that chapter not alone, but with the person I want to spend the rest of my life with. Somehow every milestone feels bigger because you're there beside me.
 
-And of course, I can never forget surprising you with the BTS Army Bong for your birthday present. Every time I see your excitement, I secretly celebrate too. My mission to turn you into an even bigger ARMY fangirl is still ongoing, and honestly, seeing you so happy is the best reward I could ever ask for. P.S - special thanks TicketMaster/BTS/ARMY for blessing bb and I with BTS concert tickets in December!
+And of course, I can never forget surprising you with the BTS Army Bong for your birthday present. Every time I see your excitement, I secretly celebrate too. My mission to turn you into an even bigger ARMY fangirl is still ongoing, and honestly, seeing you so happy is the best reward I could ever ask for. P.S - special thanks to TicketMaster/BTS/ARMY for blessing bb and I with BTS concert tickets in December!
 
 Thank you for loving me, believing in me, laughing at my nonsense, holding my hand through life's ups and downs, and making every ordinary day feel extraordinary. Thank you for being my favourite person, my best travel buddy, my concert partner, my workout buddy, my rollerskating coach, my biggest supporter, and the person I want to experience every new adventure with.
 
