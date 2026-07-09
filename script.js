@@ -1,4 +1,4 @@
-const correctPassword = "BATAM";
+const correctPassword = "FULLERTONBATAM";
 
 const birthdayLetter = `Happy Birthday, my love. ❤️
 
@@ -36,7 +36,7 @@ One day, when we're old and looking through thousands of photos together, I hope
 
 Happy Birthday, my beautiful bb. I love you, so much so much.
 
-Forever yours. ❤️`;
+Forever yours. ❤️ JJ 100726`;
 
 const passwordInput = document.getElementById("passwordInput");
 const unlockBtn = document.getElementById("unlockBtn");
