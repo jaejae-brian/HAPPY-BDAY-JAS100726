@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy Birthday bb ❤️</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="floating-hearts" aria-hidden="true">
+    <span>❤️</span><span>💕</span><span>🌸</span><span>✨</span><span>❤️</span>
+  </div>
+
+  <!-- LOCK SCREEN -->
+  <section id="lock-screen" class="screen">
+    <div class="lock-card">
+      <p class="small-title">For the birthday girl only</p>
+      <h1>Unlock Brian's Heart ❤️</h1>
+      <p class="subtitle">Before entering, solve this tiny memory puzzle.</p>
+
+      <div class="puzzle-box">
+        <p><strong>Question:</strong></p>
+        <p>Where is our second birthday getaway together?</p>
+        <p class="hint">Hint: Last year was Fullerton. This year is B____.</p>
+      </div>
+
+      <input id="passwordInput" type="password" placeholder="Type the answer here" />
+      <button id="unlockBtn">Unlock</button>
+
+      <p id="errorMsg"></p>
+    </div>
+  </section>
+
+  <!-- TRANSITION SCREEN -->
+  <section id="transition-screen" class="hidden transition-screen">
+    <h1>Correct ❤️</h1>
+    <p>Loading our little love story...</p>
+  </section>
+
+  <!-- MAIN BIRTHDAY PAGE -->
+  <main id="birthday-page" class="hidden">
+    <section class="hero">
+      <p class="small-title">From Fullerton to Batam</p>
+      <h1>Happy Birthday, my beautiful bb ❤️</h1>
+      <p>Our second birthday celebration together, and another chapter of us.</p>
+
+      <!-- Optional music.
+      Put a file named music.mp3 in your repo, then uncomment the audio line below.
+      <audio id="bgMusic" src="music.mp3" loop></audio>
+      -->
+    </section>
+
+    <section class="letter-card">
+      <h2>A letter for you</h2>
+      <div id="typedLetter"></div>
+      <button id="showGalleryBtn" class="hidden">Reveal our memories 📸</button>
+    </section>
+
+    <section id="gallery-section" class="gallery-section hidden">
+      <h2>12 little pieces of us 📸</h2>
+      <p class="gallery-intro">Every photo, one memory. Every memory, one more reason I love you.</p>
+
+      <div class="photo-grid">
+        <div class="photo-card"><img src="images/photo1.jpg" alt="Memory 1"><p>Caption 1 here</p></div>
+        <div class="photo-card"><img src="images/photo2.jpg" alt="Memory 2"><p>Caption 2 here</p></div>
+        <div class="photo-card"><img src="images/photo3.jpg" alt="Memory 3"><p>Caption 3 here</p></div>
+        <div class="photo-card"><img src="images/photo4.jpg" alt="Memory 4"><p>Caption 4 here</p></div>
+        <div class="photo-card"><img src="images/photo5.jpg" alt="Memory 5"><p>Caption 5 here</p></div>
+        <div class="photo-card"><img src="images/photo6.jpg" alt="Memory 6"><p>Caption 6 here</p></div>
+        <div class="photo-card"><img src="images/photo7.jpg" alt="Memory 7"><p>Caption 7 here</p></div>
+        <div class="photo-card"><img src="images/photo8.jpg" alt="Memory 8"><p>Caption 8 here</p></div>
+        <div class="photo-card"><img src="images/photo9.jpg" alt="Memory 9"><p>Caption 9 here</p></div>
+        <div class="photo-card"><img src="images/photo10.jpg" alt="Memory 10"><p>Caption 10 here</p></div>
+        <div class="photo-card"><img src="images/photo11.jpg" alt="Memory 11"><p>Caption 11 here</p></div>
+        <div class="photo-card"><img src="images/photo12.jpg" alt="Memory 12"><p>Caption 12 here</p></div>
+      </div>
+    </section>
+
+    <footer>
+      Forever yours ❤️
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
